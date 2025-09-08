@@ -1,5 +1,9 @@
 # Taller de Programación Paralela con OpenMP
 
+## Benjamin Ortiz Morales
+## Marco Antonio Riascos
+## Oscar Vargas Pabon
+
 Este taller contiene una serie de ejercicios que demuestran diferentes aspectos de la programación paralela usando OpenMP.
 
 ## Requisitos
@@ -75,5 +79,6 @@ gcc -fopenmp programa.c -o programa
    gcc -fopenmp 9_pi_parallel.c -o pi_parallel
    ./pi_parallel
    ```
+
 
 
