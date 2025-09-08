@@ -76,9 +76,4 @@ gcc -fopenmp programa.c -o programa
    ./pi_parallel
    ```
 
-## Notas importantes
 
-- Los resultados pueden variar según el hardware y el sistema operativo.
-- Es normal ver diferentes órdenes de ejecución en los programas paralelos.
-- Para medir tiempos precisos, ejecute los programas varias veces.
-- Compare los resultados secuenciales vs paralelos para entender el impacto de la paralelización.
